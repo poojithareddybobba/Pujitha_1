@@ -41,7 +41,7 @@ while True:
         speak("Why don't scientists trust atoms? Because they make up everything!")
     elif "what's the weather like" in command.lower():
         speak("It's sunny today.")
-    elif "ok thank you" in commans.lower():
+    elif "ok thank you" in command.lower():
         speak("you are welcome.")
     else:
         speak("Sorry, I don't know how to respond to that.")
