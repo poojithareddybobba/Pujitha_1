@@ -1,0 +1,3 @@
+SpeechRecognition
+pywin32
+PyAudio
